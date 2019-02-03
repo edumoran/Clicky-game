@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Nav from "./components/Nav";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import Container from "./Container";
 import Row from "./Row";
 import Column from "./Column";
@@ -70,14 +69,11 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Click-Click"
+          title="Click on a hero to add points. If you click the same image more than once you'll lose."
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
-
-        <Title>Click on a hero to add points. Be careful, you can lose if you click the same image more than once.</Title>
-
         <Container>
           <Row>
             {this.state.friends.map(friend => (

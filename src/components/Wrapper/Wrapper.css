@@ -1,6 +1,5 @@
 .wrapper {
-  /*background-image: url('./cartographer.png');*/
-  background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+  background-image: url('darkness.png');
   height: 100%;
   background-size: auto;
   display: flex;
