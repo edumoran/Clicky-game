@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Batman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/9/9d/Batman_003.jpg/revision/latest?cb=20090114064958",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Superman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/1/14/Superman_0002.jpg/revision/latest?cb=20100419210629",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/c/cc/Wonder_Woman_Vol_5_4_Textless.jpg/revision/latest/scale-to-width-down/688?cb=20160810132845",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Aquaman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/9/9b/Aquaman_0176.jpg/revision/latest/scale-to-width-down/658?cb=20110909221325",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "The Flash",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/74/Flash_0006.jpg/revision/latest/scale-to-width-down/658?cb=20120215162619",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Green Lantern",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/83/Hal_Jordan_and_the_Green_Lantern_Corps_Vol_1_45_Textless_Variant.jpg/revision/latest/scale-to-width-down/658?cb=20180523193425",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Martian Manhunter",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/73/Martian_Manhunter_Vol_4_11_Romita_Jr_Textless_Variant.jpg/revision/latest/scale-to-width-down/665?cb=20160422190733",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Cyborg",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/78/Cyborg_Vol_1_1_Textless.jpg/revision/latest/scale-to-width-down/658?cb=20160323205646://pbs.twimg.com/media/DvDC5fUXQAMwev7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Batgirl",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/80/Batgirl_Barbara_Gordon_0014.jpg/revision/latest/scale-to-width-down/1000?cb=20110522152007",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Robin",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/6/61/Teen_Titans_Rebirth_Vol_1_1_Textless.jpg/revision/latest?cb=20160518052637",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Hawkman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/f/fb/Hawkman_Vol_5_1_Textless_Variant.jpg/revision/latest?cb=20180625012009",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Supergirl",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/0/0a/Kara_Zor-El_037.jpg/revision/latest/scale-to-width-down/1000?cb=20140717171203",
+    "clicked": false
+  }
+]
